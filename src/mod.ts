@@ -106,8 +106,8 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
     }
 
     private populateItems(tables: IDatabaseTables) {
-        const rootRawItems: RawAssortmentItem[] = assortmentJson.items
-            .filter((item: RawAssortmentItem) => item.parentId === "hideout");
+        // const rootRawItems: RawAssortmentItem[] = assortmentJson.items
+        //     .filter((item: RawAssortmentItem) => item.parentId === "hideout");
 
         const itemCosts = Object.entries(assortmentJson.barter_scheme)
             .reduce( (map, [key, value]) => {
@@ -116,26 +116,32 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
                 return map;
             }, {});
 
-        rootRawItems.forEach((rawItem: RawAssortmentItem) => {
-            const complexAssortItem: Item[] = this.buildComplexAssortItemRecursive(rawItem._id, []);
-
-            if (complexAssortItem.length === 1) {
-                this.fluentAssortCreator.createSingleAssortItem(rawItem._tpl)
-                    .addUnlimitedStackCount()
-                    .addMoneyCost(Money.ROUBLES, itemCosts[rawItem._id] || 1)
-                    .addLoyaltyLevel(1)
-                    .export(tables.traders[baseJson._id]);
+        let assort: Item[] = [];
+        
+        for (const assortmentItem of assortmentJson.items) {
+            if (assortmentItem.parentId === "hideout") {
+                if (assort.length) {
+                    this.fluentAssortCreator
+                        .createComplexAssortItem(assort)
+                        .addUnlimitedStackCount()
+                        .addMoneyCost(Money.ROUBLES, itemCosts[assort[0]._id] || 1)
+                        .addLoyaltyLevel(1)
+                        .export(tables.traders[baseJson._id]);
+                }
+                assort = [assortmentItem];
             } else {
-                console.log("Adding complex assort item " + rawItem._id + " with " + complexAssortItem.length + " components")
-                this.fluentAssortCreator
-                    .createComplexAssortItem(complexAssortItem)
-                    .addUnlimitedStackCount()
-                    .addMoneyCost(Money.ROUBLES, itemCosts[rawItem._id] || 1)
-                    .addLoyaltyLevel(1)
-                    .export(tables.traders[baseJson._id]);
+                assort.push(assortmentItem)
             }
+        }
 
-        })    
+        if (assort.length) {
+            this.fluentAssortCreator
+                .createComplexAssortItem(assort)
+                .addUnlimitedStackCount()
+                .addMoneyCost(Money.ROUBLES, itemCosts[assort[0]._id] || 1)
+                .addLoyaltyLevel(1)
+                .export(tables.traders[baseJson._id]);
+        }
     }
 
     private buildComplexAssortItemRecursive(itemId: string, components: Item[]): Item[] 
