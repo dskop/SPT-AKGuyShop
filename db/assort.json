@@ -866,6 +866,36 @@
         "StackObjectsCount": 999999999
       }
     },	
+  {
+    "_id": "CMMG-Mk47-254mm-Barrel",
+    "_tpl": "60658776f2cb2e02a42ace2b",
+    "parentId": "hideout",
+    "slotId": "hideout"
+  },  
+  {
+    "_id": "CMMG-Mk47-Preset",
+    "_tpl": "606587252535c57a13424cfd",
+    "parentId": "hideout",
+    "slotId": "hideout"
+  },  
+  {
+    "_id": "CMMG-Mk47-Preset-Receiver",
+    "_tpl": "606587a88900dc2d9a55b659",
+    "parentId": "CMMG-Mk47-Preset",
+    "slotId": "mod_reciever"
+  },
+  {
+    "_id": "CMMG-Mk47-Preset-Barrel",
+    "_tpl": "6065878ac9cf8012264142fd",
+    "parentId": "CMMG-Mk47-Preset-Receiver",
+    "slotId": "mod_barrel"
+  },
+  {
+    "_id": "CMMG-Mk47-Preset-Charge",
+    "_tpl": "606587bd6d0bd7580617bacc",
+    "parentId": "CMMG-Mk47-Preset",
+    "slotId": "mod_charge"
+  },
 	{
       "_id": "762x54RBSammo",
       "_tpl": "5e023d48186a883be655e551",
@@ -7401,7 +7431,23 @@
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
-    ]    
+    ],
+    "CMMG-Mk47-Preset": [
+      [
+        {
+          "count": 100000,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],   
+    "CMMG-Mk47-254mm-Barrel": [
+      [
+        {
+          "count": 28000,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ]
     },
   "loyal_level_items": {  
 	"SamsPKAS": 1,

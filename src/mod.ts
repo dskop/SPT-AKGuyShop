@@ -143,25 +143,6 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
                 .export(tables.traders[baseJson._id]);
         }
     }
-
-    private buildComplexAssortItemRecursive(itemId: string, components: Item[]): Item[] 
-    {
-        const rootItem: Item = assortmentJson.items
-            .find((item: RawAssortmentItem) => item._id === itemId);
-        
-        components.push(rootItem);    
-
-        const newComponents = assortmentJson.items
-            .filter((item: RawAssortmentItem) => item.parentId === itemId)
-            .map((item: RawAssortmentItem): Item => item)        
-        
-        if (newComponents.length === 0) 
-        {
-            return components;
-        }
-
-        return newComponents.flatMap(root => this.buildComplexAssortItemRecursive(root._id, components));
-    }
 }
 
 module.exports = { mod: new SampleTrader() }
