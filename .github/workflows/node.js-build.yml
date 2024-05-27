@@ -29,10 +29,13 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test --if-present
+    - run: mkdir dist/artifact
+    - run: unzip dist/akguyshopts.zip -d dist/artifact
     - uses: actions/upload-artifact@v4
       with:
         name: akguyshopts
-        path: dist/akguyshopts.zip
+        path: dist/artifact/**/*
         if-no-files-found: error
         retention-days: 90
         compression-level: 0
+        overwrite: true
