@@ -9,8 +9,8 @@
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-    }, 
-	{
+    },
+    {
       "_id": "CSSChargingHandle",
       "_tpl": "6130ca3fd92c473c77020dbd",
       "parentId": "hideout",
@@ -20,7 +20,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "editpoint9x39bp",
       "_tpl": "5c0d688c86f77413ae3407b2",
       "parentId": "hideout",
@@ -30,7 +30,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "9x21mmBT",
       "_tpl": "5a26ac0ec4a28200741e1e18",
       "parentId": "hideout",
@@ -40,7 +40,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "9x21mmPS",
       "_tpl": "5a269f97c4a282000b151807",
       "parentId": "hideout",
@@ -50,7 +50,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "9x21mmPE",
       "_tpl": "5a26ac06c4a282000c5a90a8",
       "parentId": "hideout",
@@ -60,7 +60,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "Perst3LAM",
       "_tpl": "5c5952732e2216398b5abda2",
       "parentId": "hideout",
@@ -70,7 +70,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MDefaultPreset",
       "_tpl": "62e14904c2699c0ec93adc47",
       "parentId": "hideout",
@@ -80,49 +80,49 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "SR2MDefaultMag",
-		"_tpl": "633a98eab8b0506e48497c1a",
-		"parentId": "SR2MDefaultPreset",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "SR2MDefaultHandstop",
-		"_tpl": "62e2a754b6c0ee2f230cee0f",
-		"parentId": "SR2MDefaultPreset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "SR2MDefaultStonk",
-		"_tpl": "62e292e7b6c0ee2f230cee00",
-		"parentId": "SR2MDefaultPreset",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "SR2MDefaultDustCover",
-		"_tpl": "62e27a7865f0b1592a49e17b",
-		"parentId": "SR2MDefaultPreset",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "SR2MDefaultHandguard",
-		"_tpl": "62e15547db1a5c41971c1b5e",
-		"parentId": "SR2MDefaultPreset",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "SR2MDefaultPistolGrip",
-		"_tpl": "637b9c37b7e3bc41b21ce71a",
-		"parentId": "SR2MDefaultPreset",
-		"slotId": "mod_pistolgrip"
-	},
-	{
-		"_id": "SR2MDefaultShortMount",
-		"_tpl": "62ed189fb3608410ef5a2bfc",
-		"parentId": "SR2MDefaultHandguard",
-		"slotId": "mod_mount_001"
-	},
-	{
+    {
+      "_id": "SR2MDefaultMag",
+      "_tpl": "633a98eab8b0506e48497c1a",
+      "parentId": "SR2MDefaultPreset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "SR2MDefaultHandstop",
+      "_tpl": "62e2a754b6c0ee2f230cee0f",
+      "parentId": "SR2MDefaultPreset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "SR2MDefaultStonk",
+      "_tpl": "62e292e7b6c0ee2f230cee00",
+      "parentId": "SR2MDefaultPreset",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "SR2MDefaultDustCover",
+      "_tpl": "62e27a7865f0b1592a49e17b",
+      "parentId": "SR2MDefaultPreset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "SR2MDefaultHandguard",
+      "_tpl": "62e15547db1a5c41971c1b5e",
+      "parentId": "SR2MDefaultPreset",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "SR2MDefaultPistolGrip",
+      "_tpl": "637b9c37b7e3bc41b21ce71a",
+      "parentId": "SR2MDefaultPreset",
+      "slotId": "mod_pistolgrip"
+    },
+    {
+      "_id": "SR2MDefaultShortMount",
+      "_tpl": "62ed189fb3608410ef5a2bfc",
+      "parentId": "SR2MDefaultHandguard",
+      "slotId": "mod_mount_001"
+    },
+    {
       "_id": "SR2MSpecWarPreset",
       "_tpl": "62e14904c2699c0ec93adc47",
       "parentId": "hideout",
@@ -132,79 +132,79 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "SR2MSpecWarStonk",
-		"_tpl": "62e292e7b6c0ee2f230cee00",
-		"parentId": "SR2MSpecWarPreset",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "SR2MSpecWarDustCover",
-		"_tpl": "62e27a7865f0b1592a49e17b",
-		"parentId": "SR2MSpecWarPreset",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "SR2MSpecWarB17Mount",
-		"_tpl": "62e281349ecd3f493f6df954",
-		"parentId": "SR2MSpecWarDustCover",
-		"slotId": "mod_mount"
-	},
-	{
-		"_id": "SR2MSpecWarAimpointMount",
-		"_tpl": "58d39d3d86f77445bb794ae7",
-		"parentId": "SR2MSpecWarB17Mount",
-		"slotId": "mod_scope"
-	},
-	{
-		"_id": "SR2MSpecWarAimpointT1",
-		"_tpl": "58d399e486f77442e0016fe7",
-		"parentId": "SR2MSpecWarAimpointMount",
-		"slotId": "mod_scope"
-	},
-	{
-		"_id": "SR2MSpecWarSilencer",
-		"_tpl": "62e2a7138e1ac9380579c122",
-		"parentId": "SR2MSpecWarPreset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "SR2MSpecWarHandguard",
-		"_tpl": "637ba19df7ca6372bf2613d7",
-		"parentId": "SR2MSpecWarPreset",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "SR2MSpecWarRightRail",
-		"_tpl": "62ed1921b3608410ef5a2c04",
-		"parentId": "SR2MSpecWarHandguard",
-		"slotId": "mod_mount_001"
-	},
-	{
-		"_id": "SR2MSpecWarPerst3",
-		"_tpl": "5c5952732e2216398b5abda2",
-		"parentId": "SR2MSpecWarRightRail",
-		"slotId": "mod_tactical"
-	},
-	{
-		"_id": "SR2MSpecWarLeftRail",
-		"_tpl": "62ed1921b3608410ef5a2c04",
-		"parentId": "SR2MSpecWarHandguard",
-		"slotId": "mod_mount_000"
-	},
-	{
-		"_id": "SR2MSpecWarPistolGrip",
-		"_tpl": "637ba29bf7ca6372bf2613db",
-		"parentId": "SR2MSpecWarPreset",
-		"slotId": "mod_pistolgrip"
-	},
-	{
-		"_id": "SR2MSpecWarMagazine",
-		"_tpl": "62e153bcdb1a5c41971c1b5b",
-		"parentId": "SR2MSpecWarPreset",
-		"slotId": "mod_magazine"
-	},
-	{
+    {
+      "_id": "SR2MSpecWarStonk",
+      "_tpl": "62e292e7b6c0ee2f230cee00",
+      "parentId": "SR2MSpecWarPreset",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "SR2MSpecWarDustCover",
+      "_tpl": "62e27a7865f0b1592a49e17b",
+      "parentId": "SR2MSpecWarPreset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "SR2MSpecWarB17Mount",
+      "_tpl": "62e281349ecd3f493f6df954",
+      "parentId": "SR2MSpecWarDustCover",
+      "slotId": "mod_mount"
+    },
+    {
+      "_id": "SR2MSpecWarAimpointMount",
+      "_tpl": "58d39d3d86f77445bb794ae7",
+      "parentId": "SR2MSpecWarB17Mount",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "SR2MSpecWarAimpointT1",
+      "_tpl": "58d399e486f77442e0016fe7",
+      "parentId": "SR2MSpecWarAimpointMount",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "SR2MSpecWarSilencer",
+      "_tpl": "62e2a7138e1ac9380579c122",
+      "parentId": "SR2MSpecWarPreset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "SR2MSpecWarHandguard",
+      "_tpl": "637ba19df7ca6372bf2613d7",
+      "parentId": "SR2MSpecWarPreset",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "SR2MSpecWarRightRail",
+      "_tpl": "62ed1921b3608410ef5a2c04",
+      "parentId": "SR2MSpecWarHandguard",
+      "slotId": "mod_mount_001"
+    },
+    {
+      "_id": "SR2MSpecWarPerst3",
+      "_tpl": "5c5952732e2216398b5abda2",
+      "parentId": "SR2MSpecWarRightRail",
+      "slotId": "mod_tactical"
+    },
+    {
+      "_id": "SR2MSpecWarLeftRail",
+      "_tpl": "62ed1921b3608410ef5a2c04",
+      "parentId": "SR2MSpecWarHandguard",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_id": "SR2MSpecWarPistolGrip",
+      "_tpl": "637ba29bf7ca6372bf2613db",
+      "parentId": "SR2MSpecWarPreset",
+      "slotId": "mod_pistolgrip"
+    },
+    {
+      "_id": "SR2MSpecWarMagazine",
+      "_tpl": "62e153bcdb1a5c41971c1b5b",
+      "parentId": "SR2MSpecWarPreset",
+      "slotId": "mod_magazine"
+    },
+    {
       "_id": "SR2MReciever",
       "_tpl": "62e14904c2699c0ec93adc47",
       "parentId": "hideout",
@@ -214,7 +214,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MMag20",
       "_tpl": "633a98eab8b0506e48497c1a",
       "parentId": "hideout",
@@ -224,7 +224,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MMag30",
       "_tpl": "62e153bcdb1a5c41971c1b5b",
       "parentId": "hideout",
@@ -234,7 +234,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MGripBlack",
       "_tpl": "637ba29bf7ca6372bf2613db",
       "parentId": "hideout",
@@ -244,7 +244,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MGripReg",
       "_tpl": "637b9c37b7e3bc41b21ce71a",
       "parentId": "hideout",
@@ -254,7 +254,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MHandguardBlack",
       "_tpl": "637ba19df7ca6372bf2613d7",
       "parentId": "hideout",
@@ -264,7 +264,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MHandguardReg",
       "_tpl": "62e15547db1a5c41971c1b5e",
       "parentId": "hideout",
@@ -274,7 +274,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MDustCover",
       "_tpl": "62e27a7865f0b1592a49e17b",
       "parentId": "hideout",
@@ -284,7 +284,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MPStock",
       "_tpl": "62e2969582ebf260c20539c2",
       "parentId": "hideout",
@@ -294,7 +294,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MStock",
       "_tpl": "62e292e7b6c0ee2f230cee00",
       "parentId": "hideout",
@@ -304,7 +304,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MHandstop",
       "_tpl": "62e2a754b6c0ee2f230cee0f",
       "parentId": "hideout",
@@ -314,7 +314,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MSilencer",
       "_tpl": "62e2a7138e1ac9380579c122",
       "parentId": "hideout",
@@ -324,7 +324,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MSideRail",
       "_tpl": "62ed1921b3608410ef5a2c04",
       "parentId": "hideout",
@@ -334,7 +334,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MShortSideRail",
       "_tpl": "62ed189fb3608410ef5a2bfc",
       "parentId": "hideout",
@@ -344,7 +344,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MB17Mount",
       "_tpl": "62e281349ecd3f493f6df954",
       "parentId": "hideout",
@@ -354,7 +354,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SR2MCobra",
       "_tpl": "62ff9920fe938a24c90c10d2",
       "parentId": "hideout",
@@ -364,7 +364,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SBTacticalBrace",
       "_tpl": "628a85ee6b1d481ff772e9d5",
       "parentId": "hideout",
@@ -374,17 +374,17 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "DeadAirKeymountBrake",
-		"_tpl": "628a66b41d5e41750e314f34",
-		"parentId": "hideout",
-		"slotId": "hideout",
-		"upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		}
-	},	
-	{
+    {
+      "_id": "DeadAirKeymountBrake",
+      "_tpl": "628a66b41d5e41750e314f34",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_id": "FABAGR47Grip",
       "_tpl": "623c3be0484b5003161840dc",
       "parentId": "hideout",
@@ -394,7 +394,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "TangoDownBattleGripGrey",
       "_tpl": "628a664bccaab13006640e47",
       "parentId": "hideout",
@@ -404,7 +404,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "TangoDownBattleGripFDE",
       "_tpl": "628c9ab845c59e5b80768a81",
       "parentId": "hideout",
@@ -414,7 +414,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MagpulMLOK2InchRail",
       "_tpl": "5b7be47f5acfc400170e2dd2",
       "parentId": "hideout",
@@ -424,7 +424,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MagpulMLOK4InchRail",
       "_tpl": "5b7be4895acfc400170e2dd5",
       "parentId": "hideout",
@@ -434,7 +434,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MagpulMLOKAFGBlack",
       "_tpl": "57cffb66245977632f391a99",
       "parentId": "hideout",
@@ -444,7 +444,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MagpulMLOKCantileverRail",
       "_tpl": "6269220d70b6c02e665f2635",
       "parentId": "hideout",
@@ -454,71 +454,71 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "SagShortStonkPreset",
-		"_tpl": "628b9c37a733087d0d7fe84b",
+    {
+      "_id": "SagShortStonkPreset",
+      "_tpl": "628b9c37a733087d0d7fe84b",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-	},
-	{
-		"_id": "SagShortStonkGasBlock",
-		"_tpl": "628b8d83717774443b15e248",
-		"parentId": "SagShortStonkPreset",
-		"slotId": "mod_gas_block"
-	},
-	{
-		"_id": "SagShortStonkHandguard",
-		"_tpl": "628b916469015a4e1711ed8d",
-		"parentId": "SagShortStonkGasBlock",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "SagShortStonkDustCover",
-		"_tpl": "628b9be6cff66b70c002b14c",
-		"parentId": "SagShortStonkHandguard",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "SagShortStonkRearsight",
-		"_tpl": "628b9471078f94059a4b9bfb",
-		"parentId": "SagShortStonkDustCover",
-		"slotId": "mod_sight_rear"
-	},
-	{
-		"_id": "SagShortStonkBufferTube",
-		"_tpl": "628b9a40717774443b15e9f2",
-		"parentId": "SagShortStonkPreset",
-		"slotId": "mod_stock_000"
-	},
-	{
-		"_id": "SagShortStonkStonk",
-		"_tpl": "5d135e83d7ad1a21b83f42d8",
-		"parentId": "SagShortStonkBufferTube",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "SagShortStonkPistolGrip",
-		"_tpl": "5cf50850d7f00c056e24104c",
-		"parentId": "SagShortStonkPreset",
-		"slotId": "mod_pistol_grip"
-	},
-	{
-		"_id": "SagShortStonkMuzzleBrake",
-		"_tpl": "5ac7655e5acfc40016339a19",
-		"parentId": "SagShortStonkPreset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "SagShortStonkMag",
-		"_tpl": "55d480c04bdc2d1d4e8b456a",
-		"parentId": "SagShortStonkPreset",
-		"slotId": "mod_magazine"
-	},
-	{
+    },
+    {
+      "_id": "SagShortStonkGasBlock",
+      "_tpl": "628b8d83717774443b15e248",
+      "parentId": "SagShortStonkPreset",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "SagShortStonkHandguard",
+      "_tpl": "628b916469015a4e1711ed8d",
+      "parentId": "SagShortStonkGasBlock",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "SagShortStonkDustCover",
+      "_tpl": "628b9be6cff66b70c002b14c",
+      "parentId": "SagShortStonkHandguard",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "SagShortStonkRearsight",
+      "_tpl": "628b9471078f94059a4b9bfb",
+      "parentId": "SagShortStonkDustCover",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "SagShortStonkBufferTube",
+      "_tpl": "628b9a40717774443b15e9f2",
+      "parentId": "SagShortStonkPreset",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_id": "SagShortStonkStonk",
+      "_tpl": "5d135e83d7ad1a21b83f42d8",
+      "parentId": "SagShortStonkBufferTube",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "SagShortStonkPistolGrip",
+      "_tpl": "5cf50850d7f00c056e24104c",
+      "parentId": "SagShortStonkPreset",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "SagShortStonkMuzzleBrake",
+      "_tpl": "5ac7655e5acfc40016339a19",
+      "parentId": "SagShortStonkPreset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "SagShortStonkMag",
+      "_tpl": "55d480c04bdc2d1d4e8b456a",
+      "parentId": "SagShortStonkPreset",
+      "slotId": "mod_magazine"
+    },
+    {
       "_id": "SAGAK545ShortWeapon",
       "_tpl": "628b9c37a733087d0d7fe84b",
       "parentId": "hideout",
@@ -528,7 +528,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SAGAK545GasTube",
       "_tpl": "628b8d83717774443b15e248",
       "parentId": "hideout",
@@ -538,7 +538,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SAGAK545Handguard",
       "_tpl": "628b916469015a4e1711ed8d",
       "parentId": "hideout",
@@ -548,7 +548,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SAGAK545DustCover",
       "_tpl": "628b9be6cff66b70c002b14c",
       "parentId": "hideout",
@@ -558,7 +558,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SAGAK545RearSight",
       "_tpl": "628b9471078f94059a4b9bfb",
       "parentId": "hideout",
@@ -568,7 +568,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SAGAK545BufferTube",
       "_tpl": "628b9a40717774443b15e9f2",
       "parentId": "hideout",
@@ -578,7 +578,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SAGAK545Weapon",
       "_tpl": "628b5638ad252a16da6dd245",
       "parentId": "hideout",
@@ -588,71 +588,71 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "SagLongStonkPreset",
-		"_tpl": "628b5638ad252a16da6dd245",
+    {
+      "_id": "SagLongStonkPreset",
+      "_tpl": "628b5638ad252a16da6dd245",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-	},
-	{
-		"_id": "SagLongStonkGasTube",
-		"_tpl": "628b8d83717774443b15e248",
-		"parentId": "SagLongStonkPreset",
-		"slotId": "mod_gas_block"
-	},
-	{
-		"_id": "SagLongStonkHandguard",
-		"_tpl": "628b916469015a4e1711ed8d",
-		"parentId": "SagLongStonkGasTube",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "SagLongStonkDustCover",
-		"_tpl": "628b9be6cff66b70c002b14c",
-		"parentId": "SagLongStonkHandguard",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "SagLongStonkIronSight",
-		"_tpl": "628b9471078f94059a4b9bfb",
-		"parentId": "SagLongStonkDustCover",
-		"slotId": "mod_sight_rear"
-	},
-	{
-		"_id": "SagLongStonkBufferTube",
-		"_tpl": "628b9a40717774443b15e9f2",
-		"parentId": "SagLongStonkPreset",
-		"slotId": "mod_stock_000"
-	},
-	{
-		"_id": "SagLongStonkStonk",
-		"_tpl": "5d135e83d7ad1a21b83f42d8",
-		"parentId": "SagLongStonkBufferTube",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "SagLongStonkMuzzleBrake",
-		"_tpl": "5ac7655e5acfc40016339a19",
-		"parentId": "SagLongStonkPreset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "SagLongStonkMagazine",
-		"_tpl": "55d480c04bdc2d1d4e8b456a",
-		"parentId": "SagLongStonkPreset",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "SagLongStonkPistolGrip",
-		"_tpl": "5cf50850d7f00c056e24104c",
-		"parentId": "SagLongStonkPreset",
-		"slotId": "mod_pistol_grip"
-	},
-	{
+    },
+    {
+      "_id": "SagLongStonkGasTube",
+      "_tpl": "628b8d83717774443b15e248",
+      "parentId": "SagLongStonkPreset",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "SagLongStonkHandguard",
+      "_tpl": "628b916469015a4e1711ed8d",
+      "parentId": "SagLongStonkGasTube",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "SagLongStonkDustCover",
+      "_tpl": "628b9be6cff66b70c002b14c",
+      "parentId": "SagLongStonkHandguard",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "SagLongStonkIronSight",
+      "_tpl": "628b9471078f94059a4b9bfb",
+      "parentId": "SagLongStonkDustCover",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "SagLongStonkBufferTube",
+      "_tpl": "628b9a40717774443b15e9f2",
+      "parentId": "SagLongStonkPreset",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_id": "SagLongStonkStonk",
+      "_tpl": "5d135e83d7ad1a21b83f42d8",
+      "parentId": "SagLongStonkBufferTube",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "SagLongStonkMuzzleBrake",
+      "_tpl": "5ac7655e5acfc40016339a19",
+      "parentId": "SagLongStonkPreset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "SagLongStonkMagazine",
+      "_tpl": "55d480c04bdc2d1d4e8b456a",
+      "parentId": "SagLongStonkPreset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "SagLongStonkPistolGrip",
+      "_tpl": "5cf50850d7f00c056e24104c",
+      "parentId": "SagLongStonkPreset",
+      "slotId": "mod_pistol_grip"
+    },
+    {
       "_id": "RD704Weapon",
       "_tpl": "628a60ae6b1d481ff772e9c8",
       "parentId": "hideout",
@@ -661,8 +661,8 @@
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-    }, 
-	{
+    },
+    {
       "_id": "TROYQARS3InchRail",
       "_tpl": "5b4736a986f774040571e998",
       "parentId": "hideout",
@@ -672,7 +672,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "TROYQARS4InchRail",
       "_tpl": "5b4736b986f77405cb415c10",
       "parentId": "hideout",
@@ -682,7 +682,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "CNCGuns2InchRail",
       "_tpl": "623c2f652febb22c2777d8d7",
       "parentId": "hideout",
@@ -692,7 +692,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "CNCGuns4InchRail",
       "_tpl": "623c2f4242aee3103f1c44b7",
       "parentId": "hideout",
@@ -702,7 +702,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SIKeymod4InchRail",
       "_tpl": "5a9d6d00a2750c5c985b5305",
       "parentId": "hideout",
@@ -712,7 +712,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SIKeymod6InchRail",
       "_tpl": "5a9d6d13a2750c00164f6b03",
       "parentId": "hideout",
@@ -722,7 +722,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VltorCASV2InchRail",
       "_tpl": "59e0bdb186f774156f04ce82",
       "parentId": "hideout",
@@ -732,7 +732,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VltorCASV4InchRail",
       "_tpl": "59e0be5d86f7742d48765bd2",
       "parentId": "hideout",
@@ -742,7 +742,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VltorCASV6InchRail",
       "_tpl": "59e0bed186f774156f04ce84",
       "parentId": "hideout",
@@ -752,7 +752,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "TakticaTulaMuzzleTTAK",
       "_tpl": "5a0abb6e1526d8000a025282",
       "parentId": "hideout",
@@ -762,7 +762,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "KibaMuzzleAKM308",
       "_tpl": "615d8e9867085e45ef1409c6",
       "parentId": "hideout",
@@ -772,71 +772,71 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "RD704StonkPreset",
-		"_tpl": "628a60ae6b1d481ff772e9c8",
+    {
+      "_id": "RD704StonkPreset",
+      "_tpl": "628a60ae6b1d481ff772e9c8",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-	},
-	{
-		"_id": "RD704StonkHandguard",
-		"_tpl": "628a83c29179c324ed269508",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_gas_block"
-	},
-	{
-		"_id": "RD704StonkStockAdapter",
-		"_tpl": "5649b2314bdc2d79388b4576",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_stock_000"
-	},			
-	{
-		"_id": "RD704StonkBufferTube",
-		"_tpl": "5c793fb92e221644f31bfb64",
-		"parentId": "RD704StonkStockAdapter",
-		"slotId": "mod_stock"
-	},		
-	{
-		"_id": "RD704StonkStonk",
-		"_tpl": "628a85ee6b1d481ff772e9d5",
-		"parentId": "RD704StonkBufferTube",
-		"slotId": "mod_stock_000"
-	},			
-	{
-		"_id": "RD704StonkPistolGrip",
-		"_tpl": "5b30ac585acfc433000eb79c",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_pistol_grip"
-	},
-	{
-		"_id": "RD704StonkSight",
-		"_tpl": "628a7b23b0f75035732dd565",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_sight_rear"
-	},
-	{
-		"_id": "RD704StonkDustCover",
-		"_tpl": "628a665a86cbd9750d2ff5e5",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "RD704StonkMagazine",
-		"_tpl": "5ac66bea5acfc43b321d4aec",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "RD704StonkMuzzle",
-		"_tpl": "628a66b41d5e41750e314f34",
-		"parentId": "RD704StonkPreset",
-		"slotId": "mod_muzzle"
-	},
-	{
+    },
+    {
+      "_id": "RD704StonkHandguard",
+      "_tpl": "628a83c29179c324ed269508",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "RD704StonkStockAdapter",
+      "_tpl": "5649b2314bdc2d79388b4576",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_id": "RD704StonkBufferTube",
+      "_tpl": "5c793fb92e221644f31bfb64",
+      "parentId": "RD704StonkStockAdapter",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "RD704StonkStonk",
+      "_tpl": "628a85ee6b1d481ff772e9d5",
+      "parentId": "RD704StonkBufferTube",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_id": "RD704StonkPistolGrip",
+      "_tpl": "5b30ac585acfc433000eb79c",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "RD704StonkSight",
+      "_tpl": "628a7b23b0f75035732dd565",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "RD704StonkDustCover",
+      "_tpl": "628a665a86cbd9750d2ff5e5",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "RD704StonkMagazine",
+      "_tpl": "5ac66bea5acfc43b321d4aec",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "RD704StonkMuzzle",
+      "_tpl": "628a66b41d5e41750e314f34",
+      "parentId": "RD704StonkPreset",
+      "slotId": "mod_muzzle"
+    },
+    {
       "_id": "RD704Handguard",
       "_tpl": "628a83c29179c324ed269508",
       "parentId": "hideout",
@@ -846,7 +846,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RD704RearSight",
       "_tpl": "628a7b23b0f75035732dd565",
       "parentId": "hideout",
@@ -856,7 +856,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RD704DustCover",
       "_tpl": "628a665a86cbd9750d2ff5e5",
       "parentId": "hideout",
@@ -865,38 +865,38 @@
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-    },	
-  {
-    "_id": "CMMG-Mk47-254mm-Barrel",
-    "_tpl": "60658776f2cb2e02a42ace2b",
-    "parentId": "hideout",
-    "slotId": "hideout"
-  },  
-  {
-    "_id": "CMMG-Mk47-Preset",
-    "_tpl": "606587252535c57a13424cfd",
-    "parentId": "hideout",
-    "slotId": "hideout"
-  },  
-  {
-    "_id": "CMMG-Mk47-Preset-Receiver",
-    "_tpl": "606587a88900dc2d9a55b659",
-    "parentId": "CMMG-Mk47-Preset",
-    "slotId": "mod_reciever"
-  },
-  {
-    "_id": "CMMG-Mk47-Preset-Barrel",
-    "_tpl": "6065878ac9cf8012264142fd",
-    "parentId": "CMMG-Mk47-Preset-Receiver",
-    "slotId": "mod_barrel"
-  },
-  {
-    "_id": "CMMG-Mk47-Preset-Charge",
-    "_tpl": "606587bd6d0bd7580617bacc",
-    "parentId": "CMMG-Mk47-Preset",
-    "slotId": "mod_charge"
-  },
-	{
+    },
+    {
+      "_id": "CMMG-Mk47-254mm-Barrel",
+      "_tpl": "60658776f2cb2e02a42ace2b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+    },
+    {
+      "_id": "CMMG-Mk47-Preset",
+      "_tpl": "606587252535c57a13424cfd",
+      "parentId": "hideout",
+      "slotId": "hideout"
+    },
+    {
+      "_id": "CMMG-Mk47-Preset-Receiver",
+      "_tpl": "606587a88900dc2d9a55b659",
+      "parentId": "CMMG-Mk47-Preset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "CMMG-Mk47-Preset-Barrel",
+      "_tpl": "6065878ac9cf8012264142fd",
+      "parentId": "CMMG-Mk47-Preset-Receiver",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "CMMG-Mk47-Preset-Charge",
+      "_tpl": "606587bd6d0bd7580617bacc",
+      "parentId": "CMMG-Mk47-Preset",
+      "slotId": "mod_charge"
+    },
+    {
       "_id": "762x54RBSammo",
       "_tpl": "5e023d48186a883be655e551",
       "parentId": "hideout",
@@ -906,7 +906,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "762x54RBTammo",
       "_tpl": "5e023d34e8a400319a28ed44",
       "parentId": "hideout",
@@ -916,7 +916,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "762x54RPSammo",
       "_tpl": "59e77a2386f7742ee578960a",
       "parentId": "hideout",
@@ -926,7 +926,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "12GaugeAP20",
       "_tpl": "5d6e68a8a4b9360b6c0d54e2",
       "parentId": "hideout",
@@ -936,7 +936,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "12GaugeFlechette",
       "_tpl": "5d6e6911a4b9361bd5780d52",
       "parentId": "hideout",
@@ -946,7 +946,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "12GaugeMagnumBuckshot",
       "_tpl": "5d6e6806a4b936088465b17e",
       "parentId": "hideout",
@@ -956,7 +956,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "M995bullet",
       "_tpl": "59e690b686f7746c9f75e848",
       "parentId": "hideout",
@@ -966,7 +966,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "M855A1bullet",
       "_tpl": "54527ac44bdc2d36668b4567",
       "parentId": "hideout",
@@ -976,7 +976,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "M856A1bullet",
       "_tpl": "59e6906286f7746c9f75e847",
       "parentId": "hideout",
@@ -986,7 +986,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AK74WoodenHandguard",
       "_tpl": "5648b0744bdc2d363b8b4578",
       "parentId": "hideout",
@@ -996,7 +996,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PKAASight",
       "_tpl": "6113d6c3290d254f5e6b27db",
       "parentId": "hideout",
@@ -1006,7 +1006,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ObzorSight",
       "_tpl": "618a5d5852ecee1505530b2a",
       "parentId": "hideout",
@@ -1016,7 +1016,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RPKShortBarrel",
       "_tpl": "5beec1bd0db834001e6006f3",
       "parentId": "hideout",
@@ -1026,7 +1026,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RPKLongBarrel",
       "_tpl": "5beec2820db834001b095426",
       "parentId": "hideout",
@@ -1036,7 +1036,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PlumStock",
       "_tpl": "5cbdb1b0ae9215000d50e105",
       "parentId": "hideout",
@@ -1046,7 +1046,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PlumGrip",
       "_tpl": "5649ad3f4bdc2df8348b4585",
       "parentId": "hideout",
@@ -1056,7 +1056,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PlumMagazine",
       "_tpl": "5cbdaf89ae9215000e5b9c94",
       "parentId": "hideout",
@@ -1066,7 +1066,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PlumHandguard",
       "_tpl": "5cbda9f4ae9215000e5b9bfc",
       "parentId": "hideout",
@@ -1076,7 +1076,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "HeraStock",
       "_tpl": "619b69037b9de8162902673e",
       "parentId": "hideout",
@@ -1086,7 +1086,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "OPFORStock",
       "_tpl": "6087e2a5232e5a31c233d552",
       "parentId": "hideout",
@@ -1096,7 +1096,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ReactorBrake",
       "_tpl": "615d8f5dd92c473c770212ef",
       "parentId": "hideout",
@@ -1106,7 +1106,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "WaffleSilencer",
       "_tpl": "615d8f8567085e45ef1409ca",
       "parentId": "hideout",
@@ -1116,7 +1116,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AK74NWoodenStock",
       "_tpl": "5649b1c04bdc2d16268b457c",
       "parentId": "hideout",
@@ -1126,7 +1126,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AK74NPolymerStock",
       "_tpl": "5649b0fc4bdc2d17108b4588",
       "parentId": "hideout",
@@ -1136,7 +1136,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AK74MPolymerStock",
       "_tpl": "5ac50c185acfc400163398d4",
       "parentId": "hideout",
@@ -1146,7 +1146,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "KobraSightShade",
       "_tpl": "591c4e1186f77410354b316e",
       "parentId": "hideout",
@@ -1156,7 +1156,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "5457n40",
       "_tpl": "61962b617c6c7b169525f168",
       "parentId": "hideout",
@@ -1166,7 +1166,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "GP25AKButtPad",
       "_tpl": "5a0c59791526d8dba737bba7",
       "parentId": "hideout",
@@ -1176,7 +1176,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PS12AAmmo",
       "_tpl": "5cadf6e5ae921500113bb973",
       "parentId": "hideout",
@@ -1186,7 +1186,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PS12BAmmo",
       "_tpl": "5cadf6eeae921500134b2799",
       "parentId": "hideout",
@@ -1196,7 +1196,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "Ash1210round",
       "_tpl": "5caf1041ae92157c28402e3f",
       "parentId": "hideout",
@@ -1206,7 +1206,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "Ash1220round",
       "_tpl": "5caf1109ae9215753c44119f",
       "parentId": "hideout",
@@ -1216,7 +1216,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "Ash12MuzzleBrake",
       "_tpl": "5caf17c9ae92150b30006be1",
       "parentId": "hideout",
@@ -1226,7 +1226,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "Ash12Silencer",
       "_tpl": "5caf187cae92157c28402e43",
       "parentId": "hideout",
@@ -1236,53 +1236,53 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "ASh12SilencedDefaultPreset",
-		"_tpl": "5cadfbf7ae92152ac412eeef",
-		  "parentId": "hideout",
-		  "slotId": "hideout",
-		  "upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
+    {
+      "_id": "ASh12SilencedDefaultPreset",
+      "_tpl": "5cadfbf7ae92152ac412eeef",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "ASh12SilencedDefaultSilencer",
-		"_tpl": "5caf187cae92157c28402e43",
-		"parentId": "ASh12SilencedDefaultPreset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "ASh12SilencedDefaultMag",
-		"_tpl": "5caf1109ae9215753c44119f",
-		"parentId": "ASh12SilencedDefaultPreset",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "ASh12SilencedDefaultHandguard",
-		"_tpl": "5cdaa99dd7f00c002412d0b2",
-		"parentId": "ASh12SilencedDefaultPreset",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "ASh12SilencedDefaultForegrip",
-		"_tpl": "5cda9bcfd7f00c0c0b53e900",
-		"parentId": "ASh12SilencedDefaultHandguard",
-		"slotId": "mod_foregrip"
-	},
-	{
-		"_id": "ASh12SilencedDefaultFrontSight",
-		"_tpl": "5caf16a2ae92152ac412efbc",
-		"parentId": "ASh12SilencedDefaultPreset",
-		"slotId": "mod_sight_front"
-	},
-	{
-		"_id": "ASh12SilencedDefaultCarryHandle",
-		"_tpl": "5caf1691ae92152ac412efb9",
-		"parentId": "ASh12SilencedDefaultPreset",
-		"slotId": "mod_scope"
-	},
-	{
+    {
+      "_id": "ASh12SilencedDefaultSilencer",
+      "_tpl": "5caf187cae92157c28402e43",
+      "parentId": "ASh12SilencedDefaultPreset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "ASh12SilencedDefaultMag",
+      "_tpl": "5caf1109ae9215753c44119f",
+      "parentId": "ASh12SilencedDefaultPreset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "ASh12SilencedDefaultHandguard",
+      "_tpl": "5cdaa99dd7f00c002412d0b2",
+      "parentId": "ASh12SilencedDefaultPreset",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "ASh12SilencedDefaultForegrip",
+      "_tpl": "5cda9bcfd7f00c0c0b53e900",
+      "parentId": "ASh12SilencedDefaultHandguard",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_id": "ASh12SilencedDefaultFrontSight",
+      "_tpl": "5caf16a2ae92152ac412efbc",
+      "parentId": "ASh12SilencedDefaultPreset",
+      "slotId": "mod_sight_front"
+    },
+    {
+      "_id": "ASh12SilencedDefaultCarryHandle",
+      "_tpl": "5caf1691ae92152ac412efb9",
+      "parentId": "ASh12SilencedDefaultPreset",
+      "slotId": "mod_scope"
+    },
+    {
       "_id": "AKMagpulGrip",
       "_tpl": "5b30ac585acfc433000eb79c",
       "parentId": "hideout",
@@ -1292,7 +1292,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AKStrikeBlackGrip",
       "_tpl": "5cf50850d7f00c056e24104c",
       "parentId": "hideout",
@@ -1302,7 +1302,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AKStrikeFDEGrip",
       "_tpl": "5cf508bfd7f00c056e24104e",
       "parentId": "hideout",
@@ -1312,7 +1312,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AKCustomArmsAGSGrip",
       "_tpl": "6087e663132d4d12c81fd96b",
       "parentId": "hideout",
@@ -1321,8 +1321,8 @@
         "UnlimitedCount": true,
         "StackObjectsCount": 999999999
       }
-    },	
-	{
+    },
+    {
       "_id": "AxionKobraWeaverSight",
       "_tpl": "591c4efa86f7741030027726",
       "parentId": "hideout",
@@ -1332,7 +1332,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AxionKobraDovetailSight",
       "_tpl": "5947db3f86f77447880cf76f",
       "parentId": "hideout",
@@ -1342,7 +1342,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "OKP7WeaverSight",
       "_tpl": "570fd79bd2720bc7458b4583",
       "parentId": "hideout",
@@ -1352,7 +1352,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "OKP7DovetailSight",
       "_tpl": "57486e672459770abd687134",
       "parentId": "hideout",
@@ -1362,7 +1362,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PSO1M2",
       "_tpl": "5c82343a2e221644f31c0611",
       "parentId": "hideout",
@@ -1372,7 +1372,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VomzPiladWeaver",
       "_tpl": "584984812459776a704a82a6",
       "parentId": "hideout",
@@ -1382,7 +1382,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VomzPiladReflex",
       "_tpl": "609b9e31506cf869cf3eaf41",
       "parentId": "hideout",
@@ -1392,7 +1392,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ValdayKrechet",
       "_tpl": "609a63b6e2ff132951242d09",
       "parentId": "hideout",
@@ -1402,7 +1402,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ValdayPK120",
       "_tpl": "5c0505e00db834001b735073",
       "parentId": "hideout",
@@ -1412,7 +1412,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ValdayPS320",
       "_tpl": "5c0517910db83400232ffee5",
       "parentId": "hideout",
@@ -1422,7 +1422,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "KMZ1P59Scope",
       "_tpl": "5d0a3a58d7ad1a669c15ca14",
       "parentId": "hideout",
@@ -1432,7 +1432,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "KMZ1P69Mount",
       "_tpl": "5d0a29fed7ad1a002769ad08",
       "parentId": "hideout",
@@ -1442,7 +1442,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "KMZ1P69Scope",
       "_tpl": "5d0a3e8cd7ad1a6f6a3d35bd",
       "parentId": "hideout",
@@ -1452,7 +1452,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "Zenit2PFlashlight",
       "_tpl": "560d657b4bdc2da74d8b4572",
       "parentId": "hideout",
@@ -1462,7 +1462,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ZenitB10Handguard",
       "_tpl": "5c617a5f2e2216000f1e81b3",
       "parentId": "hideout",
@@ -1472,7 +1472,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK0ZenitGrip",
       "_tpl": "5c1bc4812e22164bef5cfde7",
       "parentId": "hideout",
@@ -1482,7 +1482,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK1ZenitGrip",
       "_tpl": "5c1bc5612e221602b5429350",
       "parentId": "hideout",
@@ -1492,7 +1492,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK1AngledZenitGrip",
       "_tpl": "5c1cd46f2e22164bef5cfedb",
       "parentId": "hideout",
@@ -1502,7 +1502,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK2ZenitGrip",
       "_tpl": "5c1bc5af2e221602b412949b",
       "parentId": "hideout",
@@ -1512,7 +1512,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK4ZenitGrip",
       "_tpl": "5c1bc5fb2e221602b1779b32",
       "parentId": "hideout",
@@ -1522,7 +1522,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK5ZenitGrip",
       "_tpl": "5c1bc7432e221602b412949d",
       "parentId": "hideout",
@@ -1532,7 +1532,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RK6ZenitGrip",
       "_tpl": "5c1bc7752e221602b1779b34",
       "parentId": "hideout",
@@ -1542,7 +1542,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASh12ForeGrip",
       "_tpl": "5cda9bcfd7f00c0c0b53e900",
       "parentId": "hideout",
@@ -1552,7 +1552,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AxionKobraDovetailMount",
       "_tpl": "591ee00d86f774592f7b841e",
       "parentId": "hideout",
@@ -1562,7 +1562,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "KMZ1P59Mount",
       "_tpl": "5d0a29ead7ad1a0026013f27",
       "parentId": "hideout",
@@ -1572,7 +1572,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SVDCAAXDRGLMount",
       "_tpl": "5e569a2e56edd02abe09f280",
       "parentId": "hideout",
@@ -1582,7 +1582,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "SVDSAGLowMount",
       "_tpl": "5dff8db859400025ea5150d4",
       "parentId": "hideout",
@@ -1592,7 +1592,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ZenitB13VMount",
       "_tpl": "5c90c3622e221601da359851",
       "parentId": "hideout",
@@ -1602,7 +1602,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSSVALB3Mount",
       "_tpl": "57a3459f245977764a01f703",
       "parentId": "hideout",
@@ -1612,7 +1612,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSSVALB3MountCombo",
       "_tpl": "5a9fc7e6a2750c0032157184",
       "parentId": "hideout",
@@ -1622,7 +1622,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSSVALTozMount",
       "_tpl": "59eb7ebe86f7740b373438ce",
       "parentId": "hideout",
@@ -1632,7 +1632,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VAL30RoundMag",
       "_tpl": "5a9e81fba2750c00164f6b11",
       "parentId": "hideout",
@@ -1642,7 +1642,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSS20RoundMag",
       "_tpl": "57838f9f2459774a150289a0",
       "parentId": "hideout",
@@ -1652,7 +1652,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSS10RoundMag",
       "_tpl": "57838f0b2459774a256959b2",
       "parentId": "hideout",
@@ -1662,7 +1662,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASVAL_Suppressor",
       "_tpl": "57c44dd02459772d2e0ae249",
       "parentId": "hideout",
@@ -1672,7 +1672,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASVAL_RearSight",
       "_tpl": "57c44e7b2459772d28133248",
       "parentId": "hideout",
@@ -1682,7 +1682,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASVAL_DustCover",
       "_tpl": "57c44f4f2459772d2c627113",
       "parentId": "hideout",
@@ -1692,7 +1692,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASVAL_PistolGrip",
       "_tpl": "57c44fa82459772d2d75e415",
       "parentId": "hideout",
@@ -1702,7 +1702,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASVAL_PistolBuffer",
       "_tpl": "5a69a2ed8dc32e000d46d1f1",
       "parentId": "hideout",
@@ -1712,7 +1712,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ASVAL_Stock",
       "_tpl": "57c450252459772d28133253",
       "parentId": "hideout",
@@ -1722,7 +1722,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSS_Suppressor",
       "_tpl": "57838c962459774a1651ec63",
       "parentId": "hideout",
@@ -1732,7 +1732,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSS_RearSight",
       "_tpl": "57838e1b2459774a256959b1",
       "parentId": "hideout",
@@ -1742,7 +1742,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSS_DustCover",
       "_tpl": "578395402459774a256959b5",
       "parentId": "hideout",
@@ -1752,7 +1752,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSS_Stock",
       "_tpl": "578395e82459774a0e553c7b",
       "parentId": "hideout",
@@ -1762,105 +1762,105 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "VSS_Preset",
-		"_tpl": "57838ad32459774a17445cd2",
-		 "parentId": "hideout",
-		 "slotId": "hideout",
-		"upd": {
-			 "UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		}
-	},
-	{
-		"_id": "VSS_Preset_Magazine",
-		"_tpl": "57838f0b2459774a256959b2",
-		"parentId": "VSS_Preset",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "VSS_Preset_Barrel",
-		"_tpl": "57838c962459774a1651ec63",
-		"parentId": "VSS_Preset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "VSS_Preset_DustCover",
-		"_tpl": "578395402459774a256959b5",
-		"parentId": "VSS_Preset",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "VSS_Preset_Stonk",
-		"_tpl": "578395e82459774a0e553c7b",
-		"parentId": "VSS_Preset",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "VSS_Preset_RearSight",
-		"_tpl": "57838e1b2459774a256959b1",
-		"parentId": "VSS_Preset_Barrel",
-		"slotId": "mod_sight_rear"
-	},
-	{
-		"_id": "VSS_Preset_ChargingHandle",
-		"_tpl": "5648ac824bdc2ded0b8b457d",
-		"parentId": "VSS_Preset",
-		"slotId": "mod_charge"
-	},
-	{
-		"_id": "ASVAL_Preset",
-		"_tpl": "57c44b372459772d2b39b8ce",
-		 "parentId": "hideout",
-		 "slotId": "hideout",
-		"upd": {
-			 "UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		}
-	},
-	{
-		"_id": "ASVAL_Preset_Barrel",
-		"_tpl": "57c44dd02459772d2e0ae249",
-		"parentId": "ASVAL_Preset",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "ASVAL_Preset_IronSight",
-		"_tpl": "57c44e7b2459772d28133248",
-		"parentId": "ASVAL_Preset_Barrel",
-		"slotId": "mod_sight_rear"
-	},
-	{
-		"_id": "ASVAL_Preset_DustCover",
-		"_tpl": "57c44f4f2459772d2c627113",
-		"parentId": "ASVAL_Preset",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "ASVAL_Preset_Magazine",
-		"_tpl": "57838f9f2459774a150289a0",
-		"parentId": "ASVAL_Preset",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "ASVAL_Preset_PistolGrip",
-		"_tpl": "57c44fa82459772d2d75e415",
-		"parentId": "ASVAL_Preset",
-		"slotId": "mod_pistol_grip"
-	},
-	{
-		"_id": "ASVAL_Preset_Stock",
-		"_tpl": "57c450252459772d28133253",
-		"parentId": "ASVAL_Preset",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "ASVAL_Preset_ChargingHandle",
-		"_tpl": "5648ac824bdc2ded0b8b457d",
-		"parentId": "ASVAL_Preset",
-		"slotId": "mod_charge"
-	},
-	{
+    {
+      "_id": "VSS_Preset",
+      "_tpl": "57838ad32459774a17445cd2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "VSS_Preset_Magazine",
+      "_tpl": "57838f0b2459774a256959b2",
+      "parentId": "VSS_Preset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "VSS_Preset_Barrel",
+      "_tpl": "57838c962459774a1651ec63",
+      "parentId": "VSS_Preset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "VSS_Preset_DustCover",
+      "_tpl": "578395402459774a256959b5",
+      "parentId": "VSS_Preset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "VSS_Preset_Stonk",
+      "_tpl": "578395e82459774a0e553c7b",
+      "parentId": "VSS_Preset",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "VSS_Preset_RearSight",
+      "_tpl": "57838e1b2459774a256959b1",
+      "parentId": "VSS_Preset_Barrel",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "VSS_Preset_ChargingHandle",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "VSS_Preset",
+      "slotId": "mod_charge"
+    },
+    {
+      "_id": "ASVAL_Preset",
+      "_tpl": "57c44b372459772d2b39b8ce",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "ASVAL_Preset_Barrel",
+      "_tpl": "57c44dd02459772d2e0ae249",
+      "parentId": "ASVAL_Preset",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "ASVAL_Preset_IronSight",
+      "_tpl": "57c44e7b2459772d28133248",
+      "parentId": "ASVAL_Preset_Barrel",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "ASVAL_Preset_DustCover",
+      "_tpl": "57c44f4f2459772d2c627113",
+      "parentId": "ASVAL_Preset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "ASVAL_Preset_Magazine",
+      "_tpl": "57838f9f2459774a150289a0",
+      "parentId": "ASVAL_Preset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "ASVAL_Preset_PistolGrip",
+      "_tpl": "57c44fa82459772d2d75e415",
+      "parentId": "ASVAL_Preset",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "ASVAL_Preset_Stock",
+      "_tpl": "57c450252459772d28133253",
+      "parentId": "ASVAL_Preset",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "ASVAL_Preset_ChargingHandle",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "ASVAL_Preset",
+      "slotId": "mod_charge"
+    },
+    {
       "_id": "ASVALReciever",
       "_tpl": "57c44b372459772d2b39b8ce",
       "parentId": "hideout",
@@ -1870,7 +1870,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VSSVintorezReciever",
       "_tpl": "57838ad32459774a17445cd2",
       "parentId": "hideout",
@@ -1880,7 +1880,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PK06Sight",
       "_tpl": "57ae0171245977343c27bfcf",
       "parentId": "hideout",
@@ -1890,7 +1890,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PP19_GasTube",
       "_tpl": "59ccd11386f77428f24a488f",
       "parentId": "hideout",
@@ -1900,7 +1900,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AKM_GasTube",
       "_tpl": "59e649f986f77411d949b246",
       "parentId": "hideout",
@@ -1910,7 +1910,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AKU_Gastube",
       "_tpl": "59d36a0086f7747e673f3946",
       "parentId": "hideout",
@@ -1921,459 +1921,459 @@
       }
     },
     {
-			"_id": "EconomyVSS",
-			"_tpl": "5447a9cd4bdc2dbd208b4567",
-			"parentId": "hideout",
-			"slotId": "hideout",
-			"upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-			  }
-		},
+      "_id": "EconomyVSS",
+      "_tpl": "5447a9cd4bdc2dbd208b4567",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
     {
-			"_id": "EVSS_PistolGrip",
-			"_tpl": "5c0e2ff6d174af02a1659d4a",
-			"parentId": "EconomyVSS",
-			"slotId": "mod_pistol_grip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Reciever",
-			"_tpl": "5c0e2f26d174af02a9625114",
-			"parentId": "EconomyVSS",
-			"slotId": "mod_reciever",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_ChargeHandle",
-			"_tpl": "5c0faf68d174af02a96260b8",
-			"parentId": "EconomyVSS",
-			"slotId": "mod_charge",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Handguard",
-			"_tpl": "5b2cfa535acfc432ff4db7a0",
-			"parentId": "EVSS_Reciever",
-			"slotId": "mod_handguard",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Barrel",
-			"_tpl": "55d35ee94bdc2d61338b4568",
-			"parentId": "EVSS_Reciever",
-			"slotId": "mod_barrel",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Foregrip",
-			"_tpl": "5c1bc5612e221602b5429350",
-			"parentId": "EVSS_AlexanderMount",
-			"slotId": "mod_foregrip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Muzzle",
-			"_tpl": "5a9fbb84a2750c00137fa685",
-			"parentId": "EVSS_Barrel",
-			"slotId": "mod_muzzle",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_AlexanderMount",
-			"_tpl": "5b30bc285acfc47a8608615d",
-			"parentId": "EVSS_Handguard",
-			"slotId": "mod_mount_000",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Stock",
-			"_tpl": "5c793fb92e221644f31bfb64",
-			"parentId": "EconomyVSS",
-			"slotId": "mod_stock",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_GasBlock",
-			"_tpl": "56eabcd4d2720b66698b4574",
-			"parentId": "EVSS_Barrel",
-			"slotId": "mod_gas_block",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "EVSS_Scope",
-			"_tpl": "570fd79bd2720bc7458b4583",
-			"parentId": "EVSS_Reciever",
-			"slotId": "mod_scope",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-{
-			"_id": "GentlemensAK",
-			"_tpl": "59984ab886f7743e98271174",
-			"parentId": "hideout",
-			"slotId": "hideout",
-			"upd": {
-			 "UnlimitedCount": true,
-			 "StackObjectsCount": 999999999
-		  }
-		},
-		{
-			"_id": "GAK_Stock",
-			"_tpl": "599851db86f77467372f0a18",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_stock",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_Muzzle",
-			"_tpl": "5998597786f77414ea6da093",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_muzzle",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_RearSight",
-			"_tpl": "599860e986f7743bb57573a6",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_sight_rear",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_GasBlock",
-			"_tpl": "59ccd11386f77428f24a488f",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_gas_block",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_Handguard",
-			"_tpl": "5d2c829448f0353a5c7d6674",
-			"parentId": "GAK_GasBlock",
-			"slotId": "mod_handguard",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_ChargeHandle",
-			"_tpl": "5648ac824bdc2ded0b8b457d",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_charge",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_Reciever",
-			"_tpl": "59985a8086f77414ec448d1a",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_reciever",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_PistolGrip",
-			"_tpl": "59e6318286f77444dd62c4cc",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_pistol_grip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "GAK_Mag",
-			"_tpl": "599860ac86f77436b225ed1a",
-			"parentId": "GentlemensAK",
-			"slotId": "mod_magazine",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-{
-			"_id": "MagpulPro",
-			"_tpl": "5ac66d9b5acfc4001633997a",
-			"parentId": "hideout",
-			  "slotId": "hideout",
-			  "upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		  }
-		},
-		{
-			"_id": "MP_ChargeHandle",
-			"_tpl": "5648ac824bdc2ded0b8b457d",
-			"parentId": "MagpulPro",
-			"slotId": "mod_charge",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_PistolGrip",
-			"_tpl": "5649ae4a4bdc2d1b2b8b4588",
-			"parentId": "MagpulPro",
-			"slotId": "mod_pistol_grip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_BastionDC",
-			"_tpl": "5d2c76ed48f03532f2136169",
-			"parentId": "MagpulPro",
-			"slotId": "mod_reciever",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_Handguard",
-			"_tpl": "5c9a07572e221644f31c4b32",
-			"parentId": "MP_GasBlock",
-			"slotId": "mod_handguard",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_Mag",
-			"_tpl": "55d482194bdc2d1d4e8b456b",
-			"parentId": "MagpulPro",
-			"slotId": "mod_magazine",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_GasBlock",
-			"_tpl": "59d64ec286f774171d1e0a42",
-			"parentId": "MagpulPro",
-			"slotId": "mod_gas_block",
-			"upd": {
-				"StackObjectsCount": 1,
-				"Repairable": {
-					"Durability": 100,
-					"MaxDurability": 100
-				}
-			}
-		},
-		{
-			"_id": "MP_Muzzle",
-			"_tpl": "593d493f86f7745e6b2ceb22",
-			"parentId": "MagpulPro",
-			"slotId": "mod_muzzle",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_PTLock",
-			"_tpl": "5beec8b20db834001961942a",
-			"parentId": "MagpulPro",
-			"slotId": "mod_stock",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_Foregrip",
-			"_tpl": "57cffb66245977632f391a99",
-			"parentId": "MP_Handguard",
-			"slotId": "mod_foregrip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_MagpulRail",
-			"_tpl": "5b7be47f5acfc400170e2dd2",
-			"parentId": "MP_Handguard",
-			"slotId": "mod_mount_000",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_Tactical",
-			"_tpl": "56def37dd2720bec348b456a",
-			"parentId": "MP_MagpulRail",
-			"slotId": "mod_tactical",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_Scope",
-			"_tpl": "57ac965c24597706be5f975c",
-			"parentId": "MP_BastionDC",
-			"slotId": "mod_scope",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "MP_Stock",
-			"_tpl": "5d135e83d7ad1a21b83f42d8",
-			"parentId": "MP_PTLock",
-			"slotId": "mod_stock",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-	{
-			"_id": "ThickFiggis",
-			"_tpl": "57dc2fa62459775949412633",
-			"parentId": "hideout",
-			"slotId": "hideout",
-			"upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-			}
-		},
-		{
-			"_id": "TF_DustCover",
-			"_tpl": "57dc334d245977597164366f",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_reciever",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_GasBlock",
-			"_tpl": "59d36a0086f7747e673f3946",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_gas_block",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_Handguard",
-			"_tpl": "5a957c3fa2750c00137fa5f7",
-			"parentId": "TF_GasBlock",
-			"slotId": "mod_handguard",
-			"upd": {
-				"StackObjectsCount": 1,
-				"Repairable": {
-					"Durability": 100,
-					"MaxDurability": 100
-				}
-			}
-		},
-		{
-			"_id": "TF_Foregrip",
-			"_tpl": "5c1cd46f2e22164bef5cfedb",
-			"parentId": "TF_Handguard",
-			"slotId": "mod_foregrip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_Tac001",
-			"_tpl": "56def37dd2720bec348b456a",
-			"parentId": "TF_Handguard",
-			"slotId": "mod_tactical_001",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_Scope",
-			"_tpl": "570fd79bd2720bc7458b4583",
-			"parentId": "TF_Handguard",
-			"slotId": "mod_scope",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_Muzzle",
-			"_tpl": "57ffb0e42459777d047111c5",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_muzzle",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_PistolGrip",
-			"_tpl": "5649ae4a4bdc2d1b2b8b4588",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_pistol_grip",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_PTLock",
-			"_tpl": "59ecc28286f7746d7a68aa8c",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_stock",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_Stock",
-			"_tpl": "59ecc3dd86f7746dc827481c",
-			"parentId": "TF_PTLock",
-			"slotId": "mod_stock",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_Mag",
-			"_tpl": "5bed625c0db834001c062946",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_magazine",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-		{
-			"_id": "TF_ChargeHandle",
-			"_tpl": "5648ac824bdc2ded0b8b457d",
-			"parentId": "ThickFiggis",
-			"slotId": "mod_charge",
-			"upd": {
-				"StackObjectsCount": 1
-			}
-		},
-	{
+      "_id": "EVSS_PistolGrip",
+      "_tpl": "5c0e2ff6d174af02a1659d4a",
+      "parentId": "EconomyVSS",
+      "slotId": "mod_pistol_grip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Reciever",
+      "_tpl": "5c0e2f26d174af02a9625114",
+      "parentId": "EconomyVSS",
+      "slotId": "mod_reciever",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_ChargeHandle",
+      "_tpl": "5c0faf68d174af02a96260b8",
+      "parentId": "EconomyVSS",
+      "slotId": "mod_charge",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Handguard",
+      "_tpl": "5b2cfa535acfc432ff4db7a0",
+      "parentId": "EVSS_Reciever",
+      "slotId": "mod_handguard",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Barrel",
+      "_tpl": "55d35ee94bdc2d61338b4568",
+      "parentId": "EVSS_Reciever",
+      "slotId": "mod_barrel",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Foregrip",
+      "_tpl": "5c1bc5612e221602b5429350",
+      "parentId": "EVSS_AlexanderMount",
+      "slotId": "mod_foregrip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Muzzle",
+      "_tpl": "5a9fbb84a2750c00137fa685",
+      "parentId": "EVSS_Barrel",
+      "slotId": "mod_muzzle",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_AlexanderMount",
+      "_tpl": "5b30bc285acfc47a8608615d",
+      "parentId": "EVSS_Handguard",
+      "slotId": "mod_mount_000",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Stock",
+      "_tpl": "5c793fb92e221644f31bfb64",
+      "parentId": "EconomyVSS",
+      "slotId": "mod_stock",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_GasBlock",
+      "_tpl": "56eabcd4d2720b66698b4574",
+      "parentId": "EVSS_Barrel",
+      "slotId": "mod_gas_block",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "EVSS_Scope",
+      "_tpl": "570fd79bd2720bc7458b4583",
+      "parentId": "EVSS_Reciever",
+      "slotId": "mod_scope",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GentlemensAK",
+      "_tpl": "59984ab886f7743e98271174",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "GAK_Stock",
+      "_tpl": "599851db86f77467372f0a18",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_stock",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_Muzzle",
+      "_tpl": "5998597786f77414ea6da093",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_muzzle",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_RearSight",
+      "_tpl": "599860e986f7743bb57573a6",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_GasBlock",
+      "_tpl": "59ccd11386f77428f24a488f",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_gas_block",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_Handguard",
+      "_tpl": "5d2c829448f0353a5c7d6674",
+      "parentId": "GAK_GasBlock",
+      "slotId": "mod_handguard",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_ChargeHandle",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_charge",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_Reciever",
+      "_tpl": "59985a8086f77414ec448d1a",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_reciever",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_PistolGrip",
+      "_tpl": "59e6318286f77444dd62c4cc",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_pistol_grip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "GAK_Mag",
+      "_tpl": "599860ac86f77436b225ed1a",
+      "parentId": "GentlemensAK",
+      "slotId": "mod_magazine",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MagpulPro",
+      "_tpl": "5ac66d9b5acfc4001633997a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "MP_ChargeHandle",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "MagpulPro",
+      "slotId": "mod_charge",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_PistolGrip",
+      "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+      "parentId": "MagpulPro",
+      "slotId": "mod_pistol_grip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_BastionDC",
+      "_tpl": "5d2c76ed48f03532f2136169",
+      "parentId": "MagpulPro",
+      "slotId": "mod_reciever",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_Handguard",
+      "_tpl": "5c9a07572e221644f31c4b32",
+      "parentId": "MP_GasBlock",
+      "slotId": "mod_handguard",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_Mag",
+      "_tpl": "55d482194bdc2d1d4e8b456b",
+      "parentId": "MagpulPro",
+      "slotId": "mod_magazine",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_GasBlock",
+      "_tpl": "59d64ec286f774171d1e0a42",
+      "parentId": "MagpulPro",
+      "slotId": "mod_gas_block",
+      "upd": {
+        "StackObjectsCount": 1,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        }
+      }
+    },
+    {
+      "_id": "MP_Muzzle",
+      "_tpl": "593d493f86f7745e6b2ceb22",
+      "parentId": "MagpulPro",
+      "slotId": "mod_muzzle",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_PTLock",
+      "_tpl": "5beec8b20db834001961942a",
+      "parentId": "MagpulPro",
+      "slotId": "mod_stock",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_Foregrip",
+      "_tpl": "57cffb66245977632f391a99",
+      "parentId": "MP_Handguard",
+      "slotId": "mod_foregrip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_MagpulRail",
+      "_tpl": "5b7be47f5acfc400170e2dd2",
+      "parentId": "MP_Handguard",
+      "slotId": "mod_mount_000",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_Tactical",
+      "_tpl": "56def37dd2720bec348b456a",
+      "parentId": "MP_MagpulRail",
+      "slotId": "mod_tactical",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_Scope",
+      "_tpl": "57ac965c24597706be5f975c",
+      "parentId": "MP_BastionDC",
+      "slotId": "mod_scope",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "MP_Stock",
+      "_tpl": "5d135e83d7ad1a21b83f42d8",
+      "parentId": "MP_PTLock",
+      "slotId": "mod_stock",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "ThickFiggis",
+      "_tpl": "57dc2fa62459775949412633",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "TF_DustCover",
+      "_tpl": "57dc334d245977597164366f",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_reciever",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_GasBlock",
+      "_tpl": "59d36a0086f7747e673f3946",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_gas_block",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_Handguard",
+      "_tpl": "5a957c3fa2750c00137fa5f7",
+      "parentId": "TF_GasBlock",
+      "slotId": "mod_handguard",
+      "upd": {
+        "StackObjectsCount": 1,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        }
+      }
+    },
+    {
+      "_id": "TF_Foregrip",
+      "_tpl": "5c1cd46f2e22164bef5cfedb",
+      "parentId": "TF_Handguard",
+      "slotId": "mod_foregrip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_Tac001",
+      "_tpl": "56def37dd2720bec348b456a",
+      "parentId": "TF_Handguard",
+      "slotId": "mod_tactical_001",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_Scope",
+      "_tpl": "570fd79bd2720bc7458b4583",
+      "parentId": "TF_Handguard",
+      "slotId": "mod_scope",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_Muzzle",
+      "_tpl": "57ffb0e42459777d047111c5",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_muzzle",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_PistolGrip",
+      "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_pistol_grip",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_PTLock",
+      "_tpl": "59ecc28286f7746d7a68aa8c",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_stock",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_Stock",
+      "_tpl": "59ecc3dd86f7746dc827481c",
+      "parentId": "TF_PTLock",
+      "slotId": "mod_stock",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_Mag",
+      "_tpl": "5bed625c0db834001c062946",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_magazine",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "TF_ChargeHandle",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "ThickFiggis",
+      "slotId": "mod_charge",
+      "upd": {
+        "StackObjectsCount": 1
+      }
+    },
+    {
       "_id": "95DrumMag",
       "_tpl": "5bed625c0db834001c062946",
       "parentId": "hideout",
@@ -2383,7 +2383,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "545_BS_Rounds",
       "_tpl": "56dff026d2720bb8668b4567",
       "parentId": "hideout",
@@ -2393,7 +2393,7 @@
         "StackObjectsCount": 999999999
       }
     },
-		{
+    {
       "_id": "545_BT_Rounds",
       "_tpl": "56dff061d2720bb5668b4567",
       "parentId": "hideout",
@@ -2403,306 +2403,305 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
-		"_id": "MetaSVDS_Preset",
-		"_tpl": "5c46fbd72e2216398b5a8c9c",		
-		"parentId": "hideout",
-		"slotId": "hideout",
-		"upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		}
-	},
-	{
-		"_id": "MetaSVDS_PistolGrip",
-		"_tpl": "5947f92f86f77427344a76b1",
-		"parentId": "MetaSVDS_Preset",
-		"slotId": "mod_pistol_grip"
-	},
-	{
-		"_id": "MetaSVDS_FoldingStock",
-		"_tpl": "5c471b5d2e221602b21d4e14",
-		"parentId": "MetaSVDS_Preset",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "MetaSVDS_Reciever",
-		"_tpl": "5dfce88fe9dc277128008b2e",
-		"parentId": "MetaSVDS_Preset",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "MetaSVDS_Magazine",
-		"_tpl": "5c88f24b2e22160bc12c69a6",
-		"parentId": "MetaSVDS_Preset",
-		"slotId": "mod_magazine"
-	},					
-	{
-		"_id": "MetaSVDS_Chassis",
-		"_tpl": "5dfcd0e547101c39625f66f9",
-		"parentId": "MetaSVDS_Preset",
-		"slotId": "mod_mount_001"
-	},
-	{
-		"_id": "MetaSVDS_Scope",
-		"_tpl": "5c0517910db83400232ffee5",
-		"parentId": "MetaSVDS_Chassis",
-		"slotId": "mod_scope"
-	},
-	{
-		"_id": "MetaSVDS_GripMount",
-		"_tpl": "59e0bed186f774156f04ce84",
-		"parentId": "MetaSVDS_Chassis",
-		"slotId": "mod_foregrip"
-	},
-	{
-		"_id": "MetaSVDS_Foregrip",
-		"_tpl": "5cf4fb76d7f00c065703d3ac",
-		"parentId": "MetaSVDS_GripMount",
-		"slotId": "mod_foregrip"
-	},					
-	{
-		"_id": "MetaSVDS_LaserMount",
-		"_tpl": "59e0bdb186f774156f04ce82",
-		"parentId": "MetaSVDS_Chassis",
-		"slotId": "mod_mount_001"
-	},
-	{
-		"_id": "MetaSVDS_TacLaser",
-		"_tpl": "56def37dd2720bec348b456a",
-		"parentId": "MetaSVDS_LaserMount",
-		"slotId": "mod_tactical"
-	},
-	{
-		"_id": "MetaSVDS_Barrel",
-		"_tpl": "5c471cb32e221602b177afaa",
-		"parentId": "MetaSVDS_Preset",
-		"slotId": "mod_barrel"
-	},
-	{
-		"_id": "MetaSVDS_GasBlock",
-		"_tpl": "5c471c842e221615214259b5",
-		"parentId": "MetaSVDS_Barrel",
-		"slotId": "mod_gas_block"
-	},
-	{
-		"_id": "MetaSVDS_MuzzleBrake",
-		"_tpl": "5c471bfc2e221602b21d4e17",
-		"parentId": "MetaSVDS_Barrel",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "MetaSVDS_FrontSight",
-		"_tpl": "5c471ba12e221602b3137d76",
-		"parentId": "MetaSVDS_MuzzleBrake",
-		"slotId": "mod_sight_front"
-	},
-	{
-		"_id": "MetaSVDS_SilencerMount",
-		"_tpl": "5e01e9e273d8eb11426f5bc3",
-		"parentId": "MetaSVDS_MuzzleBrake",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "MetaSVDS_Silencer",
-		"_tpl": "5e01ea19e9dc277128008c0b",
-		"parentId": "MetaSVDS_SilencerMount",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "SVDS_Default",
-		"_tpl": "5c46fbd72e2216398b5a8c9c",
-		"parentId": "hideout",
-		"slotId": "hideout",
-		"upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		}
-	},
-	{
-		"_id": "SVDS_DPistolGrip",
-		"_tpl": "5c471be12e221602b66cd9ac",
-		"parentId": "SVDS_Default",
-		"slotId": "mod_pistol_grip"
-	},
-	{
-		"_id": "SVDS_DMagazine",
-		"_tpl": "5c471c442e221602b542a6f8",
-		"parentId": "SVDS_Default",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "SVDS_DFoldingStock",
-		"_tpl": "5c471b5d2e221602b21d4e14",
-		"parentId": "SVDS_Default",
-		"slotId": "mod_stock"	
-	},
-	{
-		"_id": "SVDS_DBarrel",
-		"_tpl": "5c471cb32e221602b177afaa",
-		"parentId": "SVDS_Default",
-		"slotId": "mod_barrel"
-	},
-	{
-		"_id": "SVDS_DMuzzleDevice",
-		"_tpl": "5c471bfc2e221602b21d4e17",
-		"parentId": "SVDS_DBarrel",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "SVDS_DFrontSight",
-		"_tpl": "5c471ba12e221602b3137d76",
-		"parentId": "SVDS_DMuzzleDevice",
-		"slotId": "mod_sight_front"
-	},
-	{
-		"_id": "SVDS_DGasBlock",
-		"_tpl": "5c471c842e221615214259b5",
-		"parentId": "SVDS_DBarrel",
-		"slotId": "mod_gas_block"
-	},
-	{
-		"_id": "SVDS_DUpperBand",
-		"_tpl": "5c471c2d2e22164bef5d077f",
-		"parentId": "SVDS_Default",
-		"slotId": "mod_mount_001"
-	},
-	{
-		"_id": "SVDS_DHandguard",
-		"_tpl": "5c471c6c2e221602b66cd9ae",
-		"parentId": "SVDS_DUpperBand",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "SVDS_DRearSight",
-		"_tpl": "5c471b7e2e2216152006e46c",
-		"parentId": "SVDS_DUpperBand",
-		"slotId": "mod_sight_rear"
-	},
-	{
-		"_id": "SVDS_DDustCover",
-		"_tpl": "5c471bd12e221602b4129c3a",
-		"parentId": "SVDS_Default",
-		"slotId": "mod_reciever"
-	},
-	{
-						"_id": "BareBoneU",
-						"_tpl": "57dc2fa62459775949412633",
-						   "parentId": "hideout",
-							"slotId": "hideout",
-							  "upd": {
-								"UnlimitedCount": true,
-								"StackObjectsCount": 999999999
-							  }
-							},					
-					{
-						"_id": "BBUpistol",
-						"_tpl": "57e3dba62459770f0c32322b",
-						"parentId": "BareBoneU",
-						"slotId": "mod_pistol_grip"						
-					},
-					{
-						"_id": "BBUmag",
-						"_tpl": "564ca99c4bdc2d16268b4589",
-						"parentId": "BareBoneU",
-						"slotId": "mod_magazine"
-					},
-					{
-						"_id": "BBUdustcover",
-						"_tpl": "57dc334d245977597164366f",
-						"parentId": "BareBoneU",
-						"slotId": "mod_reciever"
-					},
-					{
-						"_id": "BBUgasblock",
-						"_tpl": "59d36a0086f7747e673f3946",
-						"parentId": "BareBoneU",
-						"slotId": "mod_gas_block"
-					},
-					{
-						"_id": "BBUhandgaurd",
-						"_tpl": "57dc32dc245977596d4ef3d3",
-						"parentId": "BBUgasblock",
-						"slotId": "mod_handguard"
-					},
-	{
-		"_id": "AKM366SilentSniper",
-		"_tpl": "59e6687d86f77411d949b251",
-		"parentId": "hideout",
-		"slotId": "hideout",
-		"upd": {
-			"UnlimitedCount": true,
-			"StackObjectsCount": 999999999
-		}
-	},
-	{
-		"_id": "AKM366SS_Silencer",
-		"_tpl": "5a9fbb74a2750c0032157181",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_muzzle"
-	},
-	{
-		"_id": "AKM366SS_Magazine",
-		"_tpl": "59d6272486f77466146386ff",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_magazine"
-	},
-	{
-		"_id": "AKM366SS_PistolGrip",
-		"_tpl": "5649ae4a4bdc2d1b2b8b4588",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_pistol_grip"
-	},
-	{
-		"_id": "AKM366SS_Stock",
-		"_tpl": "5b0e794b5acfc47a877359b2",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_stock"
-	},
-	{
-		"_id": "AKM366SS_ZenitRP1",
-		"_tpl": "5648ac824bdc2ded0b8b457d",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_charge"	
-	},
-	{
-		"_id": "AKM366SS_DustCover",
-		"_tpl": "5d2c76ed48f03532f2136169",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_reciever"
-	},
-	{
-		"_id": "AKM366SS_Scopey",
-		"_tpl": "5c0517910db83400232ffee5",
-		"parentId": "AKM366SS_DustCover",
-		"slotId": "mod_scope"
-	},
-	{
-		"_id": "AKM366SS_GasBlock",
-		"_tpl": "59d64ec286f774171d1e0a42",
-		"parentId": "AKM366SilentSniper",
-		"slotId": "mod_gas_block"
-	},
-	{
-		"_id": "AKM366SS_Handguard",
-		"_tpl": "5efaf417aeb21837e749c7f2",
-		"parentId": "AKM366SS_GasBlock",
-		"slotId": "mod_handguard"
-	},
-	{
-		"_id": "AKM366SS_TacLaser",
-		"_tpl": "56def37dd2720bec348b456a",
-		"parentId": "AKM366SS_Handguard",
-		"slotId": "mod_tactical_001"
-	},
-	{
-		"_id": "AKM366SS_VerticalForegrip",
-		"_tpl": "5cf4fb76d7f00c065703d3ac",
-		"parentId": "AKM366SS_Handguard",
-		"slotId": "mod_foregrip"
-	},
-	
-	{
+    {
+      "_id": "MetaSVDS_Preset",
+      "_tpl": "5c46fbd72e2216398b5a8c9c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "MetaSVDS_PistolGrip",
+      "_tpl": "5947f92f86f77427344a76b1",
+      "parentId": "MetaSVDS_Preset",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "MetaSVDS_FoldingStock",
+      "_tpl": "5c471b5d2e221602b21d4e14",
+      "parentId": "MetaSVDS_Preset",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "MetaSVDS_Reciever",
+      "_tpl": "5dfce88fe9dc277128008b2e",
+      "parentId": "MetaSVDS_Preset",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "MetaSVDS_Magazine",
+      "_tpl": "5c88f24b2e22160bc12c69a6",
+      "parentId": "MetaSVDS_Preset",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "MetaSVDS_Chassis",
+      "_tpl": "5dfcd0e547101c39625f66f9",
+      "parentId": "MetaSVDS_Preset",
+      "slotId": "mod_mount_001"
+    },
+    {
+      "_id": "MetaSVDS_Scope",
+      "_tpl": "5c0517910db83400232ffee5",
+      "parentId": "MetaSVDS_Chassis",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "MetaSVDS_GripMount",
+      "_tpl": "59e0bed186f774156f04ce84",
+      "parentId": "MetaSVDS_Chassis",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_id": "MetaSVDS_Foregrip",
+      "_tpl": "5cf4fb76d7f00c065703d3ac",
+      "parentId": "MetaSVDS_GripMount",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_id": "MetaSVDS_LaserMount",
+      "_tpl": "59e0bdb186f774156f04ce82",
+      "parentId": "MetaSVDS_Chassis",
+      "slotId": "mod_mount_001"
+    },
+    {
+      "_id": "MetaSVDS_TacLaser",
+      "_tpl": "56def37dd2720bec348b456a",
+      "parentId": "MetaSVDS_LaserMount",
+      "slotId": "mod_tactical"
+    },
+    {
+      "_id": "MetaSVDS_Barrel",
+      "_tpl": "5c471cb32e221602b177afaa",
+      "parentId": "MetaSVDS_Preset",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "MetaSVDS_GasBlock",
+      "_tpl": "5c471c842e221615214259b5",
+      "parentId": "MetaSVDS_Barrel",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "MetaSVDS_MuzzleBrake",
+      "_tpl": "5c471bfc2e221602b21d4e17",
+      "parentId": "MetaSVDS_Barrel",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "MetaSVDS_FrontSight",
+      "_tpl": "5c471ba12e221602b3137d76",
+      "parentId": "MetaSVDS_MuzzleBrake",
+      "slotId": "mod_sight_front"
+    },
+    {
+      "_id": "MetaSVDS_SilencerMount",
+      "_tpl": "5e01e9e273d8eb11426f5bc3",
+      "parentId": "MetaSVDS_MuzzleBrake",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "MetaSVDS_Silencer",
+      "_tpl": "5e01ea19e9dc277128008c0b",
+      "parentId": "MetaSVDS_SilencerMount",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "SVDS_Default",
+      "_tpl": "5c46fbd72e2216398b5a8c9c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "SVDS_DPistolGrip",
+      "_tpl": "5c471be12e221602b66cd9ac",
+      "parentId": "SVDS_Default",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "SVDS_DMagazine",
+      "_tpl": "5c471c442e221602b542a6f8",
+      "parentId": "SVDS_Default",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "SVDS_DFoldingStock",
+      "_tpl": "5c471b5d2e221602b21d4e14",
+      "parentId": "SVDS_Default",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "SVDS_DBarrel",
+      "_tpl": "5c471cb32e221602b177afaa",
+      "parentId": "SVDS_Default",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "SVDS_DMuzzleDevice",
+      "_tpl": "5c471bfc2e221602b21d4e17",
+      "parentId": "SVDS_DBarrel",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "SVDS_DFrontSight",
+      "_tpl": "5c471ba12e221602b3137d76",
+      "parentId": "SVDS_DMuzzleDevice",
+      "slotId": "mod_sight_front"
+    },
+    {
+      "_id": "SVDS_DGasBlock",
+      "_tpl": "5c471c842e221615214259b5",
+      "parentId": "SVDS_DBarrel",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "SVDS_DUpperBand",
+      "_tpl": "5c471c2d2e22164bef5d077f",
+      "parentId": "SVDS_Default",
+      "slotId": "mod_mount_001"
+    },
+    {
+      "_id": "SVDS_DHandguard",
+      "_tpl": "5c471c6c2e221602b66cd9ae",
+      "parentId": "SVDS_DUpperBand",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "SVDS_DRearSight",
+      "_tpl": "5c471b7e2e2216152006e46c",
+      "parentId": "SVDS_DUpperBand",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "SVDS_DDustCover",
+      "_tpl": "5c471bd12e221602b4129c3a",
+      "parentId": "SVDS_Default",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "BareBoneU",
+      "_tpl": "57dc2fa62459775949412633",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "BBUpistol",
+      "_tpl": "57e3dba62459770f0c32322b",
+      "parentId": "BareBoneU",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "BBUmag",
+      "_tpl": "564ca99c4bdc2d16268b4589",
+      "parentId": "BareBoneU",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "BBUdustcover",
+      "_tpl": "57dc334d245977597164366f",
+      "parentId": "BareBoneU",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "BBUgasblock",
+      "_tpl": "59d36a0086f7747e673f3946",
+      "parentId": "BareBoneU",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "BBUhandgaurd",
+      "_tpl": "57dc32dc245977596d4ef3d3",
+      "parentId": "BBUgasblock",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "AKM366SilentSniper",
+      "_tpl": "59e6687d86f77411d949b251",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_id": "AKM366SS_Silencer",
+      "_tpl": "5a9fbb74a2750c0032157181",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "AKM366SS_Magazine",
+      "_tpl": "59d6272486f77466146386ff",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "AKM366SS_PistolGrip",
+      "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "AKM366SS_Stock",
+      "_tpl": "5b0e794b5acfc47a877359b2",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "AKM366SS_ZenitRP1",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_charge"
+    },
+    {
+      "_id": "AKM366SS_DustCover",
+      "_tpl": "5d2c76ed48f03532f2136169",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "AKM366SS_Scopey",
+      "_tpl": "5c0517910db83400232ffee5",
+      "parentId": "AKM366SS_DustCover",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "AKM366SS_GasBlock",
+      "_tpl": "59d64ec286f774171d1e0a42",
+      "parentId": "AKM366SilentSniper",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "AKM366SS_Handguard",
+      "_tpl": "5efaf417aeb21837e749c7f2",
+      "parentId": "AKM366SS_GasBlock",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "AKM366SS_TacLaser",
+      "_tpl": "56def37dd2720bec348b456a",
+      "parentId": "AKM366SS_Handguard",
+      "slotId": "mod_tactical_001"
+    },
+    {
+      "_id": "AKM366SS_VerticalForegrip",
+      "_tpl": "5cf4fb76d7f00c065703d3ac",
+      "parentId": "AKM366SS_Handguard",
+      "slotId": "mod_foregrip"
+    },
+    {
       "_id": "AK101",
       "_tpl": "5ac66cb05acfc40198510a10",
       "parentId": "hideout",
@@ -2712,7 +2711,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "AK366reciever",
       "_tpl": "59e6687d86f77411d949b251",
       "parentId": "hideout",
@@ -3262,7 +3261,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ROTOR366",
       "_tpl": "5a9fbb74a2750c0032157181",
       "parentId": "hideout",
@@ -3272,7 +3271,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ROTOR556",
       "_tpl": "5a9fbb84a2750c00137fa685",
       "parentId": "hideout",
@@ -3282,7 +3281,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "JMAC74",
       "_tpl": "5f633f791b231926f2329f13",
       "parentId": "hideout",
@@ -3292,7 +3291,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "JMACAKM",
       "_tpl": "5f633f68f5750b524b45f112",
       "parentId": "hideout",
@@ -3302,7 +3301,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "PWSCQB74",
       "_tpl": "5943eeeb86f77412d6384f6b",
       "parentId": "hideout",
@@ -3312,7 +3311,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "LANTACDRAGON",
       "_tpl": "5c878ebb2e2216001219d48a",
       "parentId": "hideout",
@@ -3322,7 +3321,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "VENOMANTIDOTE",
       "_tpl": "5c7951452e221644f31bfd5c",
       "parentId": "hideout",
@@ -3332,7 +3331,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "CNCWARRIOR",
       "_tpl": "5e21ca18e4d47f0da15e77dd",
       "parentId": "hideout",
@@ -3342,7 +3341,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "RPKBUFFERTUBE",
       "_tpl": "5beec8b20db834001961942a",
       "parentId": "hideout",
@@ -3352,7 +3351,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "CAABUFFERTUBE",
       "_tpl": "5cf518cfd7f00c065b422214",
       "parentId": "hideout",
@@ -3372,7 +3371,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "BULLETAP366",
       "_tpl": "5f0596629e22f464da6bbdd9",
       "parentId": "hideout",
@@ -3382,7 +3381,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "BULLET762MAIAP",
       "_tpl": "601aa3d2b2bcb34913271e6d",
       "parentId": "hideout",
@@ -3392,7 +3391,17 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
+      "_id": "BULLET762PP",
+      "_tpl": "64b7af434b75259c590fa893",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_id": "BULLET762BP",
       "_tpl": "59e0d99486f7744a32234762",
       "parentId": "hideout",
@@ -3402,7 +3411,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "BULLET545IGOLNIK",
       "_tpl": "5c0d5e4486f77478390952fe",
       "parentId": "hideout",
@@ -3412,7 +3421,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MOEAKMFDE2",
       "_tpl": "57cffddc24597763133760c6",
       "parentId": "hideout",
@@ -3422,7 +3431,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MOEAKMFDE",
       "_tpl": "57cffd8224597763b03fc609",
       "parentId": "hideout",
@@ -3432,7 +3441,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MOEAKMSG",
       "_tpl": "57cffe20245977632f391a9d",
       "parentId": "hideout",
@@ -3442,7 +3451,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MOEAKMPLUM",
       "_tpl": "57cffe0024597763b03fc60b",
       "parentId": "hideout",
@@ -3452,7 +3461,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "MOEAKMBLACK",
       "_tpl": "57cff947245977638e6f2a19",
       "parentId": "hideout",
@@ -3462,7 +3471,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ZHUKOVUHGPLUM",
       "_tpl": "5c9a1c422e221600106f69f0",
       "parentId": "hideout",
@@ -3472,7 +3481,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ZHUKOVUHGBLACK",
       "_tpl": "5c9a07572e221644f31c4b32",
       "parentId": "hideout",
@@ -3482,7 +3491,7 @@
         "StackObjectsCount": 999999999
       }
     },
-	{
+    {
       "_id": "ZHUKOVUHGFDE",
       "_tpl": "5c9a1c3a2e2216000e69fb6a",
       "parentId": "hideout",
@@ -4497,7 +4506,6 @@
       "parentId": "AK74DefaultPreset",
       "slotId": "mod_stock"
     },
-	
     {
       "_id": "ac86cf71380482a290b94376",
       "_tpl": "564ca99c4bdc2d16268b4589",
@@ -4510,5 +4518,5 @@
       "parentId": "05b7ff169e5c2d3043147d93",
       "slotId": "mod_handguard"
     }
-   ]
+  ]
 }
