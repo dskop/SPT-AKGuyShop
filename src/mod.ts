@@ -23,6 +23,7 @@ import { HashUtil } from "@spt-aki/utils/HashUtil";
 
 import { Item } from "@spt-aki/models/eft/common/tables/IItem";
 import { IDatabaseTables } from "@spt-aki/models/spt/server/IDatabaseTables";
+import { ItemHelper } from "@spt-aki/helpers/ItemHelper";
 
 
 import * as assortmentJson from "../db/assort.json";
@@ -89,6 +90,7 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
         const databaseServer: DatabaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const configServer: ConfigServer = container.resolve<ConfigServer>("ConfigServer");
         const jsonUtil: JsonUtil = container.resolve<JsonUtil>("JsonUtil");
+        const itemHelper = container.resolve<ItemHelper>("ItemHelper")
 
         // Get a reference to the database tables
         const tables = databaseServer.getTables();
@@ -96,7 +98,7 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
         // Add new trader to the trader dictionary in DatabaseServer - has no assorts (items) yet
         this.traderHelper.addTraderToDb(baseJson, tables, jsonUtil);
 
-        this.populateItems(tables);
+        this.populateItems(tables, itemHelper);
 
         // Add trader to locale file, ensures trader text shows properly on screen
         // WARNING: adds the same text to ALL locales (e.g. chinese/french/english)
@@ -105,28 +107,13 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
         this.logger.debug(`[${this.mod}] postDb Loaded`);
     }
 
-    private populateItems(tables: IDatabaseTables) {
-        // const rootRawItems: RawAssortmentItem[] = assortmentJson.items
-        //     .filter((item: RawAssortmentItem) => item.parentId === "hideout");
-
-        const itemCosts = Object.entries(assortmentJson.barter_scheme)
-            .reduce( (map, [key, value]) => {
-                map[key] = value[0][0].count;
-
-                return map;
-            }, {});
-
+    private populateItems(tables: IDatabaseTables, itemHelper: ItemHelper) {
         let assort: Item[] = [];
         
         for (const assortmentItem of assortmentJson.items) {
             if (assortmentItem.parentId === "hideout") {
                 if (assort.length) {
-                    this.fluentAssortCreator
-                        .createComplexAssortItem(assort)
-                        .addUnlimitedStackCount()
-                        .addMoneyCost(Money.ROUBLES, itemCosts[assort[0]._id] || 1)
-                        .addLoyaltyLevel(1)
-                        .export(tables.traders[baseJson._id]);
+                    this.createAssortItem(assort, tables, itemHelper)
                 }
                 assort = [assortmentItem];
             } else {
@@ -135,13 +122,21 @@ class SampleTrader implements IPreAkiLoadMod, IPostDBLoadMod
         }
 
         if (assort.length) {
-            this.fluentAssortCreator
-                .createComplexAssortItem(assort)
-                .addUnlimitedStackCount()
-                .addMoneyCost(Money.ROUBLES, itemCosts[assort[0]._id] || 1)
-                .addLoyaltyLevel(1)
-                .export(tables.traders[baseJson._id]);
+            this.createAssortItem(assort, tables, itemHelper)
         }
+    }
+
+    private createAssortItem(assort: Item[], tables: IDatabaseTables, itemHelper: ItemHelper) {
+        const price = itemHelper.getItemAndChildrenPrice(assort.map(item => item._tpl));
+        const priceCoefficient: number = baseJson.price_coefficient;
+        const adjustedPrice = Math.floor(price * priceCoefficient);
+
+        this.fluentAssortCreator
+            .createComplexAssortItem(assort)
+            .addUnlimitedStackCount()
+            .addMoneyCost(Money.ROUBLES, adjustedPrice)
+            .addLoyaltyLevel(1)
+            .export(tables.traders[baseJson._id]);
     }
 }
 
