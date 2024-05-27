@@ -37,5 +37,4 @@ jobs:
         path: dist/artifact/**/*
         if-no-files-found: error
         retention-days: 90
-        compression-level: 0
         overwrite: true
