@@ -1,6 +1,7 @@
-# Welcome to the SPT-AKI Modding Project
+# AK Guy Shop - SPT-AKI Mod
 
-This project is designed to streamline the initial setup process for building and creating mods in the SPT-AKI environment. Follow this guide to set up your environment efficiently.
+This is a source code repository of the "AK Guy Shop - Revamped" mod for Single Player Tarkov. 
+You can find the instructions for setting up your environment and building the project below.
 
 ## **Table of Contents**
 - [NodeJS Setup](#nodejs-setup)
@@ -13,7 +14,7 @@ This project is designed to streamline the initial setup process for building an
 
 ## **NodeJS Setup**
 
-Before you begin, ensure to install NodeJS version `v20.11.1`, which has been tested thoroughly with our mod templates and build scripts. Download it from the [official NodeJS website](https://nodejs.org/).
+Before you begin, make sure to install NodeJS version `v20.x`, which is required to build this project. Download it from the [official NodeJS website](https://nodejs.org/).
 
 After installation, it's advised to reboot your system.
 
