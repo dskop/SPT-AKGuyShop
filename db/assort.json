@@ -873,6 +873,12 @@
       "slotId": "hideout"
     },
     {
+      "_id": "CMMG-Mk47-409mm-Barrel",
+      "_tpl": "6065878ac9cf8012264142fd",
+      "parentId": "hideout",
+      "slotId": "hideout"
+    },
+    {
       "_id": "CMMG-Mk47-Preset",
       "_tpl": "606587252535c57a13424cfd",
       "parentId": "hideout",
