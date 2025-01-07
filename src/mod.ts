@@ -81,7 +81,8 @@ class SampleTrader implements IPreSptLoadMod, IPostDBLoadMod
         const databaseServer: DatabaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const configServer: ConfigServer = container.resolve<ConfigServer>("ConfigServer");
         const jsonUtil: JsonUtil = container.resolve<JsonUtil>("JsonUtil");
-        const itemHelper = container.resolve<ItemHelper>("ItemHelper")
+        const itemHelper = container.resolve<ItemHelper>("ItemHelper");
+        const hashUtil: HashUtil = container.resolve<HashUtil>("HashUtil");
 
         // Get a reference to the database tables
         const tables = databaseServer.getTables();
@@ -89,7 +90,7 @@ class SampleTrader implements IPreSptLoadMod, IPostDBLoadMod
         // Add new trader to the trader dictionary in DatabaseServer - has no assorts (items) yet
         this.traderHelper.addTraderToDb(baseJson, tables, jsonUtil);
 
-        this.populateItems(tables, itemHelper);
+        this.populateItems(tables, itemHelper, hashUtil);
 
         // Add trader to locale file, ensures trader text shows properly on screen
         // WARNING: adds the same text to ALL locales (e.g. chinese/french/english)
@@ -98,10 +99,30 @@ class SampleTrader implements IPreSptLoadMod, IPostDBLoadMod
         this.logger.debug(`[${this.mod}] postDb Loaded`);
     }
 
-    private populateItems(tables: IDatabaseTables, itemHelper: ItemHelper) {
+    private getAssortment(hashUtil: HashUtil): Item[] {
+        // replace arbitrary _id with mongo id for compatibility with SPT 3.10+
+        const legacyItemsIdMap = assortmentJson.items.reduce((map, item) => {
+            const legacyId = item._id;
+            const itemWithMongoId = {...item, _id: hashUtil.generate()};
+            map[legacyId] = itemWithMongoId;
+            return map;
+        }, {})
+
+        return Object.values(legacyItemsIdMap).map((item: Item) => {
+            if (item.parentId === "hideout") {
+                return item;
+            }
+
+            return { ...item, parentId: legacyItemsIdMap[item.parentId]._id };
+        })
+    }
+
+    private populateItems(tables: IDatabaseTables, itemHelper: ItemHelper, hashUtil: HashUtil) {
         let assort: Item[] = [];
         
-        for (const assortmentItem of assortmentJson.items) {
+        const items = this.getAssortment(hashUtil);
+
+        for (const assortmentItem of items) {
             if (assortmentItem.parentId === "hideout") {
                 if (assort.length) {
                     this.createAssortItem(assort, tables, itemHelper)
